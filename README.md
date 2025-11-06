@@ -57,7 +57,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://beta.kangqiovo.com/about"><img src="https://www.kangqiovo.com/wp-content/uploads/2025/10/userlmn_98750892fcc484567c7f2aaec6d8077c-ezgif.com-resize.png" alt="Gitee" title="关于我" /></a>
+    <a href="https://beta.kangqiovo.com/about"><img src="" alt="Gitee" title="关于我" /></a>
     <a href="https://github.com/KangQiovo"><img src="https://img.shields.io/badge/GitHub-KangQiovo-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://space.bilibili.com/329073257"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-KangQi_official-pink?logo=bilibil" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
