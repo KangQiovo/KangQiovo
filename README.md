@@ -1,24 +1,69 @@
-# 关于我
-<!-- 模拟网页预览卡片：显示页面截图，点击跳转原页交互 -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://beta.kangqiovo.com/about" target="_blank" style="text-decoration: none;">
-    <div style="width: 90%; max-width: 850px; border: 1px solid #e1e4e8; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.07); overflow: hidden; position: relative;">
-      <!-- 嵌入 about 页面截图（关键：让访客直观看到页面内容） -->
-      <img 
-        src="https://www.kangqiovo.com/wp-content/uploads/2025/11/moon-scaled.png" 
-        alt="关于页面预览" 
-        style="width: 100%; height: auto; display: block;"
-      >
-      <!-- 交互提示层（hover 时显示，引导点击） -->
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.1); opacity: 0; transition: opacity 0.3s ease; display: flex; align-items: center; justify-content: center;">
-        <span style="background: #0366d6; color: white; padding: 10px 24px; border-radius: 30px; font-size: 16px; font-weight: 600;">
-          点击进入页面交互 →
-        </span>
-      </div>
-    </div>
-    <!-- 下方说明文字 -->
-    <p style="margin: 10px 0 0 0; color: #6a737d; font-size: 14px;">
-      👉 
-    </p>
-  </a>
-</div>
+<!--
+MIT License
+
+Copyright (c) 2024 Xiaokang2022
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ATTENTION:
+
+Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
+-->
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20KangQiovo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hello World!"/>
+</p>
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
+</p>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=KangQiovo&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=KangQiovo&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- self-host in Vercel -->
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=KangQiovo&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</p>
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KangQiovo&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=KangQiovo&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,rust,js,css,html,md&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://beta.kangqiovo.com/about"><img src="https://www.kangqiovo.com/wp-content/uploads/2025/10/userlmn_98750892fcc484567c7f2aaec6d8077c-ezgif.com-resize.png" alt="Gitee" title="关于我" /></a>
+    <a href="https://github.com/KangQiovo"><img src="https://img.shields.io/badge/GitHub-KangQiovo-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://space.bilibili.com/329073257"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-KangQi_official-pink?logo=bilibil" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/KangQiovo"><img src="https://komarev.com/ghpvc/?username=KangQiovo&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+</p>
