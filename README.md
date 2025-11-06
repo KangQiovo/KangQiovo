@@ -26,8 +26,13 @@ ATTENTION:
 Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
 <p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif" alt="Hello World" title="Hello World"/>
+       <img 
+        src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif"
+        alt="头图" 
+        style="width: 100%; height: auto; display: block; object-fit: cover; max-height: 400px;"
+        autoplay
+        loop
+      >
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
