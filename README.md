@@ -26,13 +26,33 @@ ATTENTION:
 Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
 <p align="center">
-       <img 
-        src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif"
-        alt="头图" 
-        style="width: 100%; height: auto; display: block; object-fit: cover; max-height: 400px;"
-        autoplay
-        loop
-      >
+    <!-- 替换为指定 GIF 作为头图，保留原文字布局和动画 -->
+    <div style="position: relative; width: 100%; max-width: 1200px; height: 300px; margin: 0 auto; overflow: hidden; border-radius: 8px;">
+        <!-- 背景 GIF：自动循环播放，铺满容器 -->
+        <img 
+            src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif"
+            alt="Header GIF" 
+            style="width: 100%; height: 100%; object-fit: cover; display: block;"
+            autoplay
+            loop
+        >
+        <!-- 叠加文字：还原原 capsule-render 的文字效果，居中显示 -->
+        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: white; text-shadow: 0 2px 8px rgba(0,0,0,0.3); animation: twinkling 3s infinite alternate;">
+            <div style="font-size: 90px; font-weight: bold; margin-bottom: 10px;">HI THERE</div>
+            <div style="font-size: 30px;">I am KangQiovo</div>
+        </div>
+        <!-- 闪烁动画：还原原 animation=twinkling 效果 -->
+        <style>
+            @keyframes twinkling {
+                from { opacity: 0.9; }
+                to { opacity: 1; transform: scale(1.02); }
+            }
+        </style>
+    </div>
+</p>
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
