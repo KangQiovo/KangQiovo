@@ -5,7 +5,7 @@
     <div style="width: 90%; max-width: 850px; border: 1px solid #e1e4e8; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.07); overflow: hidden; position: relative;">
       <!-- 嵌入 about 页面截图（关键：让访客直观看到页面内容） -->
       <img 
-        src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif" 
+        src="https://www.kangqiovo.com/wp-content/uploads/2025/11/moon-scaled.png" 
         alt="关于页面预览" 
         style="width: 100%; height: auto; display: block;"
       >
