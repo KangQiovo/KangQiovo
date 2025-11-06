@@ -25,9 +25,28 @@ ATTENTION:
 
 Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
+<style>
+    @keyframes twinkling {
+        from { opacity: 0.9; }
+        to { opacity: 1; transform: scale(1.02); }
+    }
+    .header-text {
+        animation: twinkling 3s infinite alternate;
+    }
+</style>
+
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20KangQiovo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hello World!"/>
+    <!-- 替换为指定 GIF 作为头图，保留原文字布局和动画 -->
+    <div style="position: relative; width: 100%; max-width: 1200px; height: 300px; margin: 0 auto; overflow: hidden; border-radius: 8px;">
+        <!-- 背景 GIF：自动循环播放，铺满容器 -->
+        <img 
+            src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif"
+            alt="Header GIF" 
+            style="width: 100%; height: 100%; object-fit: cover; display: block;"
+            autoplay
+            loop
+        >
+    </div>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
