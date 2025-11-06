@@ -25,20 +25,9 @@ ATTENTION:
 
 Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
-<style>
-    @keyframes twinkling {
-        from { opacity: 0.9; }
-        to { opacity: 1; transform: scale(1.02); }
-    }
-    .header-text {
-        animation: twinkling 3s infinite alternate;
-    }
-</style>
-
 <p align="center">
-    <!-- 替换为指定 GIF 作为头图，保留原文字布局和动画 -->
-    <div style="position: relative; width: 100%; max-width: 1200px; height: 300px; margin: 0 auto; overflow: hidden; border-radius: 8px;">
-        <!-- 背景 GIF：自动循环播放，铺满容器 -->
+    <!-- 纯动态 GIF 头图，无叠加文字 -->
+    <div style="width: 100%; max-width: 1200px; height: 300px; margin: 0 auto; overflow: hidden; border-radius: 8px;">
         <img 
             src="https://www.kangqiovo.com/wp-content/uploads/2025/11/studio_video_1762337778081-ezgif.com-video-to-gif-converter-1.gif"
             alt="Header GIF" 
